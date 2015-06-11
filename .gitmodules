@@ -64,3 +64,6 @@
 [submodule "plugins/elasticsearch"]
 	path = plugins/elasticsearch
 	url = https://github.com/boundary/boundary-plugin-elasticsearch
+[submodule "plugins/sphinx"]
+	path = plugins/sphinx
+	url = https://github.com/boundary/boundary-plugin-sphinx
